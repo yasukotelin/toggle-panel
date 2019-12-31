@@ -2,6 +2,9 @@
 	"name": "toggle-panel",
 	"displayName": "Toggle Panel",
 	"description": "Toggle Panel toggles the panel.",
+  "author": {
+    "name": "yasukotelin"
+  },
 	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.41.0"
