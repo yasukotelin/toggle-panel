@@ -1,9 +1,13 @@
-# Toggle Panel
+# Toggle Panel Fork
 
-Toggle Panel is extention for Visual Studio Code that toggles the panel window.
+Toggle Panel Fork is an extension for Visual Studio Code that
+shows a little button that toggles the panel visibility
+on the right of the status bar.
 
-![DEMO](https://github.com/yasukotelin/toggle-panel/blob/master/images/toggle-panel.gif?raw=true)
+This is a fork from
+[Toggle Panel](https://github.com/yasukotelin/toggle-panel).
 
-## Author
+## Authors
 
-yasukotelin
+- [yasukotelin](https://github.com/yasukotelin)
+- [zawys](https://github.com/zawys)
